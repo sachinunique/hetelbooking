@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.menu{
+    background: rgba(78, 79, 78, 0.733);
+    background-image: linear-gradient(342deg, #686b 0% #6865 76%);
+    
+}
+.nav-item a{
+    color: #fff;
+}
+.nav-item:hover{
+    color: #fff;
+    background-color: black;
+}
+.left-menu{
+    background: rgba(78, 79, 78, 0.733);
+    background-image: linear-gradient(342deg, #686b 0% #6865 76%);
+}
